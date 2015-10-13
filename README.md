@@ -1,2 +1,2 @@
 # Hand-Written-Digit-Recognition
-Code base for all models implemented via coursera assignments
+Important files from Code base for all models implemented via coursera assignments
